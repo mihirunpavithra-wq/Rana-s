@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/ranas-stories/', // GitHub Pages repository name
+  base: '/Rana-s/',   // ← මෙය වෙනස් කරන්න
   plugins: [
     react(),
     tailwindcss(),
